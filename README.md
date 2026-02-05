@@ -1,7 +1,7 @@
 # Project: Corporate Bankruptcy Predictor (Altman Z-Score)
 
 ### Why I built this
-I wanted to see if I could build a tool that programmatically flags companies at risk of defaulting, similar to how credit rating agencies like CRISIL operate. Instead of manually calculating ratios for every company, this Python script automates the process using the **Altman Z-Score model**.
+I wanted to see if I could build a tool that programmatically flags companies at risk of defaulting, similar to how credit rating agencies operate. Instead of manually calculating ratios for every company, this Python script automates the process using the **Altman Z-Score model**.
 
 ### How it works
 The script takes key financial inputs from a company's Balance Sheet and P&L (Total Assets, Liabilities, EBIT, etc.) and runs them through a weighted formula.
