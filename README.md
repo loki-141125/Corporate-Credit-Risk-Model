@@ -20,8 +20,8 @@ The model correctly identified the financial health of both companies without an
 
 | Company | Z-Score | Status | Why? |
 | :--- | :--- | :--- | :--- |
-| **Vodafone Idea** | **-2.65** | 🔴 **Distress** | The massive negative Retained Earnings (-₹1.9L Cr) dragged the score down significantly, indicating capital erosion. |
-| **TCS** | **7.5+** | 🟢 **Safe** | High retained earnings and low external debt kept the score well above the safety threshold. |
+| **Vodafone Idea** | **-1.59** | 🔴 **Distress** | The massive negative Retained Earnings (-₹1.9L Cr) dragged the score down significantly, indicating capital erosion. |
+| **TCS** | **17.36** | 🟢 **Safe** | High retained earnings and low external debt kept the score well above the safety threshold. |
 
 ### Tech Stack
 * **Python:** Core logic.
